@@ -1,6 +1,6 @@
 package main
 
-// csvcat.go
+// csvpick.go
 
 import (
 	"encoding/csv"
